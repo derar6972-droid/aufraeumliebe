@@ -1,5 +1,104 @@
 [
   {
+    "slug": "medikamentenschrank-kindersicherung",
+    "title": "Der Punkt bei kindersicherer Medikamenten-Lagerung, den die meisten übersehen",
+    "hook": "Ein abgeschlossener Schrank, dessen Schlüssel griffbereit auf dem Schrank selbst liegt, bringt herzlich wenig. Genau an diesem Punkt hören…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/medikamentenschrank-kindersicherung.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "ordnung-routine-prinzip",
+    "title": "Das Prinzip hinter einer Ordnungsroutine, die wirklich übersteht",
+    "hook": "Was tatsächlich funktioniert, ist eine feste Zuordnung: An diesem Wochentag ist dieser Bereich dran, fertig. Keine Entscheidung, kein…",
+    "category": "putzroutinen",
+    "categoryLabel": "Putzroutinen",
+    "image": "assets/img/ordnung-routine-prinzip.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "ordnung-schwer-halten-unterschied",
+    "title": "Aufräumen und Ordnung halten sind zwei komplett verschiedene Dinge",
+    "hook": "Die meisten Menschen behandeln aufräumen und Ordnung halten wie Synonyme. Sind sie aber nicht. Genau dieser Unterschied erklärt, warum es…",
+    "category": "ratgeber",
+    "categoryLabel": "Ratgeber",
+    "image": "assets/img/ordnung-schwer-halten-unterschied.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "pareto-prinzip-sichtbare-ordnung",
+    "title": "Sichtbare Ordnung und perfekte Ordnung sind zwei verschiedene Dinge",
+    "hook": "Die 80 Prozent, die du mit wenig Aufwand erreichst, betreffen vor allem die sichtbare Ordnung. Die hintersten 20 Prozent sind oft Dinge,…",
+    "category": "ratgeber",
+    "categoryLabel": "Ratgeber",
+    "image": "assets/img/pareto-prinzip-sichtbare-ordnung.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "sachen-spenden-seriose-container",
+    "title": "Nicht jeder Altkleidercontainer gehört zu einer gemeinnützigen Organisation",
+    "hook": "Hinter manchen Containern stehen kommerzielle Sammler, die Textilien weiterverkaufen. Das muss nichts Schlechtes bedeuten, aber wenn dir…",
+    "category": "ausmisten-minimalismus",
+    "categoryLabel": "Ausmisten & Minimalismus",
+    "image": "assets/img/sachen-spenden-seriose-container.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "schlafzimmer-schlafhygiene-prinzip",
+    "title": "Das Schlafhygiene-Prinzip, das die wenigsten mit Ordnung verbinden",
+    "hook": "Zur klassischen Schlafhygiene gehören eine feste Schlafenszeit, ein kühler, dunkler Raum, und eine aufgeräumte, reizarme Umgebung. Genau…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/schlafzimmer-schlafhygiene-prinzip.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "schublade-kueche-denkfehler",
+    "title": "Der Denkfehler, den fast jeder Schubladen-Ratgeber macht",
+    "hook": "Die meisten Ratgeber gehen davon aus, dass alles bleibt und nur besser sortiert werden muss. Genau das ist der Denkfehler, der…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/schublade-kueche-denkfehler.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "vorratskammer-fifo-erklaert",
+    "title": "FIFO wird in fast jedem Ratgeber erwähnt, aber selten wirklich erklärt",
+    "hook": "Die Idee ist simpel: Was zuerst gekauft wurde, wird auch zuerst verbraucht. Der Haken ist die Umsetzung, denn ohne feste Regel bleibt FIFO…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/vorratskammer-fifo-erklaert.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "waschmittel-2-uebersehene-dinge",
+    "title": "Zwei Dinge, die in fast jedem Ordnungs-Ratgeber zur Waschküche fehlen",
+    "hook": "Wer seine Waschküche organisiert, denkt meist zuerst an Regale und Wäschekörbe. Genauso wichtig sind aber zwei Dinge, die dabei fast immer…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/waschmittel-2-uebersehene-dinge.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "wie-oft-ausmisten-keine-antwort",
+    "title": "Es gibt keine einzige richtige Antwort auf wie oft ausmisten",
+    "hook": "Jeder, der dir eine einzige feste Zahl nennt, vereinfacht die Sache zu stark. Wie oft du ausmisten solltest, hängt von mindestens drei…",
+    "category": "ausmisten-minimalismus",
+    "categoryLabel": "Ausmisten & Minimalismus",
+    "image": "assets/img/wie-oft-ausmisten-keine-antwort.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "wohnzimmer-problemzone-einzeln",
+    "title": "Jede Problemzone einzeln lösen, statt einmal alles großzuräumen",
+    "hook": "Ich habe lange gebraucht, um zu verstehen, dass Wohnzimmer organisieren keine einmalige Aktion ist. Erst als jede Problemzone einzeln…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/wohnzimmer-problemzone-einzeln.png",
+    "date": "2026-09-01"
+  },
+  {
     "slug": "kleiderschrank-ausmisten-geheimkriterium",
     "title": "Das Kriterium beim Ausmisten, das fast jede Anleitung übergeht",
     "hook": "Es geht nicht nur um Erinnerungsstücke im klassischen Sinne, das übersehen fast alle Ausmist-Anleitungen. Ein bestimmtes Kriterium…",
