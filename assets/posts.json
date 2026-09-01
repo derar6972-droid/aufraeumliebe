@@ -1,5 +1,95 @@
 [
   {
+    "slug": "ausmisten-methoden-falsche-methode",
+    "title": "Es gibt nicht die eine beste Ausmisten-Methode, aber es gibt die falsche für dich",
+    "hook": "Zehn Methoden wurden über die Jahre wirklich ausprobiert, mit Begeisterung bei manchen, mit einem klaren nie wieder bei anderen. Die…",
+    "category": "ausmisten-minimalismus",
+    "categoryLabel": "Ausmisten & Minimalismus",
+    "image": "assets/img/ausmisten-methoden-geheimtipp.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "minimalismus-gewohnheiten-geheimnis",
+    "title": "Das Prinzip, das dein Zuhause von selbst sauber hält",
+    "hook": "Es hat nichts mit Putzplänen, festen Wochentagen oder mehr Disziplin zu tun. Ein einziges Prinzip entscheidet, ob dein Zuhause dauerhaft…",
+    "category": "ausmisten-minimalismus",
+    "categoryLabel": "Ausmisten & Minimalismus",
+    "image": "assets/img/minimalismus-gewohnheiten-geheimnis.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "5-kisten-methode-unterschied",
+    "title": "2 Ausmisten-Methoden werden ständig verwechselt, der Unterschied ist größer als gedacht",
+    "hook": "Auf den ersten Blick wirken die 3-Kisten- und die 5-Kisten-Methode fast identisch. Der Unterschied liegt in zwei Kategorien, die in der…",
+    "category": "ausmisten-minimalismus",
+    "categoryLabel": "Ausmisten & Minimalismus",
+    "image": "assets/img/5-kisten-methode-unterschied.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "abstellkammer-3-sekunden-regel",
+    "title": "Woran du eine wirklich gut organisierte Abstellkammer erkennst",
+    "hook": "Es sind nicht die hübschen Boxen. Eine wirklich gut eingerichtete Abstellkammer erkennst du daran, dass du in drei Sekunden findest, was du…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/abstellkammer-einrichten-3sekunden.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "badezimmer-spiegelschrank-regel",
+    "title": "Die eine Regel, die entscheidet, was in deinen Spiegelschrank gehört",
+    "hook": "Die meisten Ratgeber zum Thema Bad-Stauraum sagen dir, was du kaufen sollst, aber nicht, wonach du beim Einräumen entscheiden sollst. Dabei…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/badezimmer-organisieren-regel.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "handtuecher-falten-hotelgeheimnis",
+    "title": "Das eine Grundprinzip hinter der Handtuch-Faltung im Hotel",
+    "hook": "Es geht nicht nur um die Falttechnik selbst. Ein einziges Grundprinzip entscheidet gleichzeitig darüber, ob deine Handtücher aussehen wie…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/handtuecher-falten-hotelgeheimnis.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "hauswirtschaftsraum-organisieren-6-zonen",
+    "title": "Das Konzept, das jeden Hauswirtschaftsraum in 6 Zonen verwandelt",
+    "hook": "Die meisten Menschen räumen ihren Hauswirtschaftsraum nach Gefühl ein, was gerade Platz hat, kommt irgendwo hin. Ein Zonen-Konzept löst…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/hauswirtschaftsraum-organisieren-6zonen.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "homeoffice-organisieren-system",
+    "title": "Der Teil vom Homeoffice organisieren, über den kaum ein Ratgeber spricht",
+    "hook": "Über physische Ordnung am Schreibtisch wird viel geschrieben, Kabel, Schubladen, Ablagesysteme. Über einen anderen Teil dagegen erstaunlich…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/homeoffice-organisieren-system.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "kapselgarderobe-erstellen-herzstueck",
+    "title": "Das Herzstück einer funktionierenden Kapselgarderobe hat nichts mit der Teile-Auswahl zu tun",
+    "hook": "Hier trennt sich eine funktionierende Kapselgarderobe von einer, die nach zwei Monaten wieder im Chaos versinkt. Deine aussortierte…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/kapselgarderobe-erstellen-herzstueck.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "kinderzimmer-organisieren-system-kind",
+    "title": "Das Prinzip, das entscheidet, ob ein Kinderzimmer-System wirklich hält",
+    "hook": "Hier liegt der größte Unterschied zu jedem anderen Raum in der Wohnung: Das System muss von einer Person bedient werden, die noch nicht…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/kinderzimmer-organisieren-system-kind.png",
+    "date": "2026-09-01"
+  },
+  {
     "slug": "kleiderschrank-geheimnis",
     "title": "Das Detail, das über einen vollen oder einen entspannten Kleiderschrank entscheidet",
     "hook": "Es hat nichts mit einem größeren Schrank zu tun. Eine einzige Reihenfolge entscheidet alles.",
