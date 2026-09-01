@@ -1,5 +1,95 @@
 [
   {
+    "slug": "kleiderschrank-ausmisten-geheimkriterium",
+    "title": "Das Kriterium beim Ausmisten, das fast jede Anleitung übergeht",
+    "hook": "Es geht nicht nur um Erinnerungsstücke im klassischen Sinne, das übersehen fast alle Ausmist-Anleitungen. Ein bestimmtes Kriterium…",
+    "category": "ausmisten-minimalismus",
+    "categoryLabel": "Ausmisten & Minimalismus",
+    "image": "assets/img/kleiderschrank-ausmisten-geheimkriterium.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "kleiderschrank-organisieren-unterschied",
+    "title": "Der Unterschied zwischen einem Schrank, der 4 Wochen hält, und einem, der Monate hält",
+    "hook": "Der größte Unterschied zwischen einem Schrank, der nach vier Wochen wieder chaotisch ist, und einem, der Monate hält, ist selten die Menge…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/kleiderschrank-organisieren-unterschied.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "falten-vertikal-forschung",
+    "title": "Was Forscher übers Wäschefalten herausgefunden haben",
+    "hook": "Dass Falten reine Fingerfertigkeit ist, stimmt nur halb. Forscher beschäftigen sich ernsthaft damit, wie sich Textilien am platzsparendsten…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/falten-vertikal-forschung.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "kleine-kueche-uebersprungener-schritt",
+    "title": "Der Schritt vor dem Einrichten, den fast jeder Küchen-Ratgeber überspringt",
+    "hook": "Für diesen Artikel wurden bewusst die üblichen Küchen-Ratgeber durchgeklickt, von Möbelhäusern genauso wie von Herstellern. Auffällig: Fast…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/kleine-kueche-uebersprungener-schritt.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "kleines-bad-6-zonen",
+    "title": "6 Stauraum-Zonen im Bad, die fast niemand als Stauraum erkennt",
+    "hook": "Über der Toilette, hinter der Tür, am Siphon, der Stauraum war schon immer da, nur unsichtbar. Statt eines normalen Rundgangs durch…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/kleines-bad-6-zonen.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "konmari-methode-reihenfolge",
+    "title": "Die Reihenfolge, die hinter der KonMari-Methode steckt, und warum sie wichtig ist",
+    "hook": "Kondo empfiehlt eine feste Reihenfolge, weil die Entscheidungskompetenz mit jeder Kategorie wächst. Du trainierst dich quasi hoch zu den…",
+    "category": "ausmisten-minimalismus",
+    "categoryLabel": "Ausmisten & Minimalismus",
+    "image": "assets/img/konmari-methode-reihenfolge.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "kueche-organisieren-3-typen",
+    "title": "Es gibt nicht das eine richtige Küchensystem, nur das, das zu deinem Typ passt",
+    "hook": "Nicht jedes System passt zu jedem Menschen, und genau das übersehen viele Ratgeber. Der visuelle Typ, der Zonen-Typ und der Minimalist…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/kueche-organisieren-3-typen.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "toepfe-pfannen-groesse-fehler",
+    "title": "Der Fehler, den fast jedes Töpfe-Ordnungssystem macht",
+    "hook": "Die meisten Ratgeber sortieren Töpfe und Pfannen nur nach Größe. Das übersieht das eigentliche Problem: Der große Bräter, den du zweimal im…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/toepfe-pfannen-groesse-fehler.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "kuehlschrank-umluft-detail",
+    "title": "Das Detail bei modernen Kühlschränken, das fast kein Ratgeber erwähnt",
+    "hook": "Bei Kühlschränken mit Umluftkühlung sitzt der Verdampfer nicht direkt im Kühlraum, ein Ventilator verteilt die gekühlte Luft aktiv und…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/kuehlschrank-umluft-detail.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "schminktisch-pao-symbol",
+    "title": "Das kleine Symbol auf deiner Kosmetik, das die meisten komplett ignorieren",
+    "hook": "Ein kleines Tiegel-Symbol mit einer Zahl und einem M steckt auf fast jeder Foundation, jedem Concealer, jeder Gesichtscreme, und wird…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/schminktisch-pao-symbol.png",
+    "date": "2026-09-01"
+  },
+  {
     "slug": "ausmisten-methoden-falsche-methode",
     "title": "Es gibt nicht die eine beste Ausmisten-Methode, aber es gibt die falsche für dich",
     "hook": "Zehn Methoden wurden über die Jahre wirklich ausprobiert, mit Begeisterung bei manchen, mit einem klaren nie wieder bei anderen. Die…",
