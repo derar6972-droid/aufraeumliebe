@@ -1,5 +1,32 @@
 [
   {
+    "slug": "buecherregal-ordnen-geheimkriterium",
+    "title": "So ordnest du dein Bücherregal richtig",
+    "hook": "Das Kriterium, das über dein perfektes Bücherregal-System entscheidet, hat nichts mit Farben zu tun",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/buecherregal-ordnen-geheimkriterium.webp",
+    "date": "2026-09-09"
+  },
+  {
+    "slug": "kabel-verstecken-fernseher-geheimschritt",
+    "title": "So verschwinden Kabel am Fernseher dauerhaft",
+    "hook": "Der Schritt, der wichtiger ist als jeder Kabelkanal, kommt vor dem Verstecken",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/kabel-verstecken-fernseher-geheimschritt.webp",
+    "date": "2026-09-09"
+  },
+  {
+    "slug": "winterkleidung-aufbewahren-fehler-herbst",
+    "title": "So gelingt das Winterkleidung aufbewahren im Flur",
+    "hook": "Der Fehler beim Winterkleidung Verstauen, der erst im nächsten Herbst auffällt",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/winterkleidung-aufbewahren-fehler-herbst.webp",
+    "date": "2026-09-09"
+  },
+  {
     "slug": "medikamentenschrank-kindersicherung",
     "title": "So mistest du deinen Medikamentenschrank aus",
     "hook": "Ein abgeschlossener Schrank, dessen Schlüssel griffbereit auf dem Schrank selbst liegt, bringt herzlich wenig. Genau an diesem Punkt hören…",
